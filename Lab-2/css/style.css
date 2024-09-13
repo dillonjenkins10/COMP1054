@@ -1,0 +1,31 @@
+/** Step one **/
+/** did it with html **/
+
+/** Step two **/
+h1, h2, h3, h4, h5, h6{
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+/** Step three **/
+h1{
+    font-size: 46px;
+    letter-spacing: 2px;
+    color: #f4752e;
+    text-align: center;
+}
+
+/** Step four **/
+p, a, li{
+    font-family: "SUSE", sans-serif;
+}
+
+/** Step five **/
+p span{
+    color: #eaf673;
+}
+
+/** Step six **/
+h3{
+    font-size: 2.25em;
+    text-shadow: 4px 2px 4px rgba(0,0,0,.7);
+}
